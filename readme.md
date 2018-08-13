@@ -4,9 +4,9 @@
 
 Pump It Up Composite is a chart pack for [StepF2](stepf2.blogspot.com). Its goal is to provide an expansion to the song list without deviating too much from the official charting styles. The target demographic is players who can play between Level 5 and Level 17, though difficulties outside of those are provided.
 
-#Background Videos
+## Background Videos
 
-Due to large file sizes, background videos are only [available separately](http://www.mediafire.com/folder/o65fzhtvonpv9g6,u0k1ioy2w5kiudx/shared).
+Due to large file sizes, background videos are only [available separately on MediaFire.](http://www.mediafire.com/folder/o65fzhtvonpv9g6,u0k1ioy2w5kiudx/shared).
 
 # Installation instructions
 
