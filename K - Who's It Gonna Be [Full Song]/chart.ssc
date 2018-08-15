@@ -1,4 +1,4 @@
-﻿#VERSION:0.81;
+#VERSION:0.81;
 #TITLE:후스 잇 고나 비?;
 #SUBTITLE:Full Song;
 #ARTIST:비지에이;
@@ -17,7 +17,7 @@
 #SAMPLESTART:46.049999;
 #SAMPLELENGTH:12.571000;
 #SELECTABLE:YES;
-#SONGTYPE:ARCADE;
+#SONGTYPE:FULLSONG;
 #SONGCATEGORY:K-POP;
 #VOLUME:100;
 #BPMS:0.000=105.000,
@@ -42,7 +42,7 @@
 ;
 
 
-//---------------pump-double - DP 4----------------
+//---------------pump-double - COOP DP 4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:COOP DP 4;
