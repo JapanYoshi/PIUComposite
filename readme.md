@@ -8,6 +8,10 @@ Pump It Up Composite is a chart pack for [StepF2](stepf2.blogspot.com). Its goal
 
 Due to large file sizes, background videos are only [available separately on MediaFire.](http://www.mediafire.com/folder/o65fzhtvonpv9g6,u0k1ioy2w5kiudx/shared).
 
+# Testing
+
+Pump It Up Composite is in **Open Beta.** If downloading this pack, please help me bring this to publishable quality by using [this document](https://docs.google.com/spreadsheets/d/1bwC163P1L27GePRla2ZarjM4Yx6JFIMJlNQtf9GXtyo/edit?usp=sharing) and joining [the official Discord server](https://invite.gg/piu).
+
 # Installation instructions
 
 * Click on “Clone or download”, then click on “Download ZIP" (unless you want to do some fancy keeping-up-to-date using Git).
