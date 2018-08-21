@@ -4981,6 +4981,7 @@ M000M
 
 //---------------pump-double - OUCS----------------
 #NOTEDATA:;
+#CHARTNAME:my start button is sTUUCk
 #STEPSTYPE:pump-double;
 #DESCRIPTION:OUCS;
 #DIFFICULTY:Edit;
@@ -6043,6 +6044,7 @@ M000M
 
 //---------------pump-halfdouble - OUCS----------------
 #NOTEDATA:;
+#CHARTNAME:Minty Start;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:OUCS;
 #DIFFICULTY:Edit;
