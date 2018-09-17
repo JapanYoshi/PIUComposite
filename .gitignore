@@ -1,6 +1,7 @@
 _ignoreme/
-RandomVideos/
+RandomMovies/
 *.mp4
 *.avi
 *.old
 *.sm
+*.svg
