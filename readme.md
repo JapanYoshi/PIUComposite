@@ -1,16 +1,18 @@
 # Description
 
-![PIUComposite Logo](https://github.com/JapanYoshi/PIUComposite/raw/master/logo.png)
+![Pump It Up Composite 2019 Logo](https://github.com/JapanYoshi/PIUComposite/raw/master/logo.png)
 
 Pump It Up Composite is a chart pack for [StepF2](stepf2.blogspot.com). Its goal is to provide an expansion to the song list without deviating too much from the official charting styles. The target demographic is players who can play between Level 5 and Level 17, though difficulties outside of those are provided.
 
 ## Background Videos
 
-Due to large file sizes, background videos are only [available separately on MediaFire.](http://www.mediafire.com/folder/o65fzhtvonpv9g6,u0k1ioy2w5kiudx/shared).
+Due to large file sizes, background videos are only [available separately on MediaFire.](http://www.mediafire.com/folder/97il513n5iaxn/Pump_It_Up_Composite).
 
 ## Noteskins
 
-Pump It Up Composite also has complementary noteskins. (Download coming soon)
+![Composite Noteskin Preview](https://cdn.discordapp.com/attachments/306593965963214858/416092295129989121/UpLeft_Tap_Note_4x1_doubleres.png)
+
+Pump It Up Composite also has its own noteskin! [See a list of all noteskins here.](http://fizzystack.web.fc2.com/stepmania/noteskins.html)
 
 # Public Beta
 
