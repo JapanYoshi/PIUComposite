@@ -1,6 +1,6 @@
 # Description
 
-![PIUComposite Logo](https://github.com/JapanYoshi/PIUComposite/raw/master/banner.png)
+![PIUComposite Logo](https://github.com/JapanYoshi/PIUComposite/raw/master/logo.png)
 
 Pump It Up Composite is a chart pack for [StepF2](stepf2.blogspot.com). Its goal is to provide an expansion to the song list without deviating too much from the official charting styles. The target demographic is players who can play between Level 5 and Level 17, though difficulties outside of those are provided.
 
@@ -8,9 +8,13 @@ Pump It Up Composite is a chart pack for [StepF2](stepf2.blogspot.com). Its goal
 
 Due to large file sizes, background videos are only [available separately on MediaFire.](http://www.mediafire.com/folder/o65fzhtvonpv9g6,u0k1ioy2w5kiudx/shared).
 
-# Testing
+## Noteskins
 
-Pump It Up Composite is in **Open Beta.** If downloading this pack, please help me bring this to publishable quality by using [this document](https://docs.google.com/spreadsheets/d/1bwC163P1L27GePRla2ZarjM4Yx6JFIMJlNQtf9GXtyo/edit?usp=sharing) and joining [the official Discord server](https://invite.gg/piu).
+Pump It Up Composite also has complementary noteskins. (Download coming soon)
+
+# Public Beta
+
+Pump It Up Composite is in **Public Beta.** Consider joining [the official Discord server](https://invite.gg/piu) or, if there is an issue, posting an issue to this repository.
 
 # Installation instructions
 
@@ -22,8 +26,8 @@ Pump It Up Composite is in **Open Beta.** If downloading this pack, please help 
 
 # Credits
 
-* “Quincunx” produced by [Akira Sora](https://soundcloud.com/sora-akira-edm)
 * “Prime Directive” produced by [Zaiga](https://soundcloud.com/zaiga_makina)
+* Cover for “Bad 4 My Health” produced by [Akira Sora](https://soundcloud.com/sora-akira-edm)
 
 Audio edit for:
 
@@ -33,9 +37,15 @@ Audio edit for:
 
 ...were taken from the Project Pad Pack series organized by Gpop, CondorTalon, and others.
 
-Audio edit and/or background for:
+Audio edit for:
 
 * Dope
 * Rather Be
 
-...were taken (and edited) from Speirmix Galaxy by Ben Speirs.
+...were taken from Speirmix Galaxy by Ben Speirs. Background draft for Dope was also taken from there.
+
+Guest charters include:
+
+* CaucasianCrustacean
+* Mintice (MTC)
+* Tuuc
