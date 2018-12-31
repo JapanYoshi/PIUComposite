@@ -1,7 +1,12 @@
 _ignoreme/
 RandomMovies/
 *.mp4
+*/*.mp4
 *.avi
+*/*.avi
 *.old
+*/*.old
 *.sm
+*/*.sm
 *.svg
+*/*.svg

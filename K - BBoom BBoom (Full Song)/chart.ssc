@@ -8,9 +8,9 @@
 #GENRE:K-Pop;
 #ORIGIN:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
-#PREVIEWVID:previewvid.mp4;
+#BANNER:banner.png;
+#BACKGROUND:bg.png;
+#PREVIEWVID:../K - BBoom BBoom/previewvid_k.mp4;
 #CDTITLE:;
 #MUSIC:audio.wav;
 #OFFSET:0.000000;
