@@ -8,6 +8,8 @@ Pump It Up Composite is a chart pack for [StepF2](stepf2.blogspot.com). Its goal
 
 Due to large file sizes, background videos are only [available separately on MediaFire.](http://www.mediafire.com/folder/97il513n5iaxn/Pump_It_Up_Composite).
 
+For the same reason, the archive is split into parts 1GB each. Download them all and open the file numbered .001 using 7zip or another extractor that supports multipart .7z files.
+
 ## Noteskins
 
 ![Composite Noteskin Preview](https://cdn.discordapp.com/attachments/306593965963214858/416092295129989121/UpLeft_Tap_Note_4x1_doubleres.png)
