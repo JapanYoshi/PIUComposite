@@ -16,9 +16,9 @@ For the same reason, the archive is split into parts 1GB each. Download them all
 
 Pump It Up Composite also has its own noteskin! [See a list of all noteskins here.](http://fizzystack.web.fc2.com/stepmania/noteskins.html)
 
-# Public Beta
+# Feedback
 
-Pump It Up Composite is in **Public Beta.** Consider joining [the official Discord server](https://invite.gg/piu) or, if there is an issue, posting an issue to this repository.
+Pump It Up Composite is in **Public Beta.** Please submit specific issues to [this repository's issues page](https://github.com/JapanYoshi/PIUComposite/issues/new), and general inquiries to [the official Discord server](https://invite.gg/piu). Your feedback will be used to fix the shortcomings of this chart pack and hence refine it bit by bit. However, please note that everyone's taste in stepcharts is different, and not all advice will be considered.
 
 # Installation instructions
 
@@ -53,3 +53,9 @@ Guest charters include:
 * CaucasianCrustacean
 * Mintice (MTC)
 * Tuuc
+
+# Contacts
+
+* Specific issues: [Create an issue](https://github.com/JapanYoshi/PIUComposite/issues/new) (requires GitHub account)
+* General feedback: [Community Discord server](https://invite.gg/piu) (requires Discord account)
+* Main dev and charter: [@JapanYoshi777](https://twitter.com/japanyoshi777) (requires Twitter account)
