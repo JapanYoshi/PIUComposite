@@ -31,7 +31,6 @@ Pump It Up Composite is in **Public Beta.** Please submit specific issues to [th
 # Credits
 
 * “Prime Directive” produced by [Zaiga](https://soundcloud.com/zaiga_makina)
-* Cover for “Bad 4 My Health” produced by [Akira Sora](https://soundcloud.com/sora-akira-edm)
 
 Audio edit for:
 
@@ -59,3 +58,4 @@ Guest charters include:
 * Specific issues: [Create an issue](https://github.com/JapanYoshi/PIUComposite/issues/new) (requires GitHub account)
 * General feedback: [Community Discord server](https://invite.gg/piu) (requires Discord account)
 * Main dev and charter: [@JapanYoshi777](https://twitter.com/japanyoshi777) (requires Twitter account)
+* If you have none of these accounts and still have something to say: [japanyoshi777@gmail.com](mailto:japanyoshi777@gmail.com)
