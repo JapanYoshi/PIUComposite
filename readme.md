@@ -57,5 +57,5 @@ Guest charters include:
 
 * Specific issues: [Create an issue](https://github.com/JapanYoshi/PIUComposite/issues/new) (requires GitHub account)
 * General feedback: [Community Discord server](https://invite.gg/piu) (requires Discord account)
-* Main dev and charter: [@JapanYoshi777](https://twitter.com/japanyoshi777) (requires Twitter account)
+* Main dev and charter: [@ItsSpelledHALEY](https://twitter.com/ItsSpelledHALEY) (requires Twitter account)
 * If you have none of these accounts and still have something to say: [japanyoshi777@gmail.com](mailto:japanyoshi777@gmail.com)
